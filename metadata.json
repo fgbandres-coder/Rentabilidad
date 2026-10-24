@@ -1,0 +1,6 @@
+{
+  "name": "OptiPrice - Optimización Econométrica Cerveza IPA 4-Pack",
+  "description": "Plataforma analítica y simulador de fijación de precios, curvas de demanda y maximización de utilidades para Cerveza Artesanal IPA 4-Pack.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
